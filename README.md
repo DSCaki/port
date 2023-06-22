@@ -6,8 +6,8 @@ Port with Nextjs, Tailwind CSS and Framer-motion
 - Profile image in the home page created by using https://www.midjourney.com/ tool.
 - Fonts from https://fonts.google.com/ <br />
 - Icons from https://iconify.design/ <br />
-- background remover ://bg.remover/ <br />
-- svg to react://svgr.org <br />
+- background remover https://bg.remover/ <br />
+- svg to react https://svgr.org <br />
 
 ### External Libraries used in this project:
 
